@@ -1,11 +1,11 @@
 # Hi, I am Jordon Smith
-A short paragraph bio
 
-JavaScript
-Python
-HTML
 
-A code block that prints “Hello, world!” in Python - find the Python documentation if you don't know how :)
+-JavaScript
+-Python
+-HTML
+
+print("Hello World")
 
 A link to one project repo
 
