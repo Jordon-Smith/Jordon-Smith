@@ -15,4 +15,4 @@ Your README must render correctly on GitHub.
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jordon-Smith&theme=gotham" alt="GitHub Streak" /></a>
