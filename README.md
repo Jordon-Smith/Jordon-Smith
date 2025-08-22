@@ -5,9 +5,9 @@ I am a student enrolled in Jones County High School in Gray, GA in my Junior yea
 -JavaScript
 -Python
 -HTML
-
+```Python
 print('Hello World')
-
+```
 A link to one project repo
 
 An image or badge you find appropriate
