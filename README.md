@@ -5,7 +5,7 @@
 -Python
 -HTML
 
-print("Hello World")
+print["Hello World"]
 
 A link to one project repo
 
