@@ -37,9 +37,9 @@
 ```Python
 print('Hello World')
 ```
-[JavaScript Art Project](https://codehs.com/student/4350129/section/563196/assignment/148887194)
+<p align="left"> [JavaScript Art Project](https://codehs.com/student/4350129/section/563196/assignment/148887194)</p>
   <img src="https://uploads.codehs.com/767318fb3faf7c127963a6ea52216c0c" height ="60" /> 
   
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jordon-Smith&theme=gotham" alt="GitHub Streak" /></a>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=haydencreamer&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+ 
