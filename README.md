@@ -37,7 +37,7 @@
 ```Python
 print('Hello World')
 ```
-<p align="left"> [JavaScript Art Project](https://codehs.com/student/4350129/section/563196/assignment/148887194)</p>
+[JavaScript Art Project](https://codehs.com/student/4350129/section/563196/assignment/148887194)
   <img src="https://uploads.codehs.com/767318fb3faf7c127963a6ea52216c0c" height ="60" /> 
   
 
