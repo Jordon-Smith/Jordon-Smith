@@ -1,10 +1,7 @@
 # Hi, I am Jordon Smith
 I am a student enrolled in Jones County High School in Gray, GA in my Junior year 
 
-
--JavaScript
--Python
--HTML
+Languages: CSS, HTML, Python, JavaScript
 ```Python
 print('Hello World')
 ```
