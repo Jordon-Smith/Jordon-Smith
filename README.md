@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently undergoing a Programming, Games, Apps, and Social course ...<br>🎯 Goals:</p>
+<p align="left">📚 I'm currently undergoing a Programming, Games, Apps, and Social course</p>
 
 ###
 
