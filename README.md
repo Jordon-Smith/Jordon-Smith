@@ -16,3 +16,4 @@ print('Hello World')
   [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Jordon-Smith&theme=gotham" alt="GitHub Streak" /></a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=haydencreamer&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
